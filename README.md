@@ -1,8 +1,8 @@
 # BIF Frontend
 
-> ⚠️ **Note:** This project is still under development
+> ⚠️ **Note:** This has now moved to [BIF's GitHub Organisation](https://github.com/BIFVIT) and is being maintained there. Visit it here if you're interested in this project - [GitHub Repository](https://github.com/BIFVIT/bif-website)
 
-# For Developers:
+# For Developers / Contributors:
 
 ### 1. Clone this project into your system by running the following:
 
